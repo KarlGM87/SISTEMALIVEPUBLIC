@@ -6,3 +6,4 @@
 para ejecutar el sistema , debes colocar:
 
 ```npm install eject```
+listas en espera...
