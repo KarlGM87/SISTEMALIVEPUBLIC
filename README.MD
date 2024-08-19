@@ -1,4 +1,4 @@
-<h1> SISTEMALIVEPUBLIC </h1>
+<h1> SISTEMALIVE PUBLICiCIDAD </h1>
 
 estado de proyecto en construccion
 
